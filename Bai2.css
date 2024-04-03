@@ -1,0 +1,20 @@
+.vid{
+    width: 100%;
+    text-align: center; 
+    padding-top: 3%;
+}
+.video{
+    width: 100%;
+}
+p{
+    color: red;
+}
+@media screen and (max-width: 600px) {
+    .vid{
+        width: 90%;
+        text-align: center;
+    }
+    p{
+        color: aqua;
+    }
+}

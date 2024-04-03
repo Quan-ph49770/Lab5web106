@@ -1,0 +1,14 @@
+.map{
+    width: 100%;
+    text-align: center;
+}
+iframe{
+    width: 40%;
+}
+@media screen and(max-width: 600px) {
+    .map{
+        width: 100%;
+        text-align: center;
+    }
+    
+}
